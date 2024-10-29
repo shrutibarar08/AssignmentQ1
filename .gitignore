@@ -1,0 +1,19 @@
+# Visual Studio specific files and folders
+.vs/
+*.user
+*.suo
+*.rsuser
+*.userosscache
+*.sln.docstates
+
+# Build results
+*.obj
+*.exe
+*.dll
+*.pdb
+
+# Other common files
+bin/
+obj/
+*.log
+*.tmp
